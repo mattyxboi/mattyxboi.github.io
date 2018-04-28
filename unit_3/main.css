@@ -8,15 +8,17 @@
 color: yellow;
 font-size: 14;
 font-family: sans-serif;
-font-variant-caps: 
-;
 }
+
 #creep{
 	color: white;
 	font-variant-caps: uppercase;
 	font-weight: 300;
+	font-family: sans-serif;
 }
+
 #aboutus{
 	color: yellow;
+	font-family: sans-serif;
 	font-weight: 200
 }
