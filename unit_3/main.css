@@ -1,6 +1,6 @@
 #body{
 	background: black;
-	color: yellow;
+
 
 }
 
@@ -9,7 +9,14 @@ color: yellow;
 font-size: 14;
 font-family: sans-serif;
 font-variant-caps: 
-
-
 ;
+}
+#creep{
+	color: white;
+	font-variant-caps: uppercase;
+	font-weight: 300;
+}
+#aboutus{
+	color: yellow;
+	font-weight: 200
 }
