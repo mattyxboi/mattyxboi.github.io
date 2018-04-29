@@ -1,4 +1,6 @@
-header{background-color: black;}
+h3, h2, h4, body, header{
+	background-color: black;
+}
 
 h3{
 	color: yellow;
