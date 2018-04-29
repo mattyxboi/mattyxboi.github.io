@@ -2,6 +2,12 @@
  	background: black;
  }
 
+ p{
+
+ 	font-color:white;
+ 	font-family: sans-serif;
+ }
+
 
  h3 {background-color: black;
 	color: white;
