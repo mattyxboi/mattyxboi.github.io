@@ -1,7 +1,21 @@
-body{
+h3{
 	background-color: black;
 	color: yellow;
 	font-family: sans-serif;
 	font-weight: 200
 	font-size: 14;
+}
+h2{
+	color: pink;
+	font-family: sans-serif;
+	background-color: black;
+	font-weight: 400;
+	font-size: 20;
+}
+h4{
+	color: yellow;
+	background-color: black;
+	font-weight: 100;
+	font-size: 12;
+	font-family: sans-serif;
 }
