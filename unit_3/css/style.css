@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
 
- body{
+ header, body{
  	background: black;
  	color: white;
  	font-family: sans-serif;
  }
 h2{
 	font-color:white;
-	
+
 
 }
 
