@@ -1,5 +1,6 @@
  
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700');
 
  body{
  	background: black;
@@ -8,6 +9,7 @@
  }
 h2{
 	font-color:white;
+	
 
 }
 
@@ -28,7 +30,17 @@ h1{
 #title{
 	color:purple;
 	font-size:100px;
-	
+}
 
+#subtitle{
+	font-family:Quicksand, sans-serif;
 
 }
+
+
+
+
+
+
+
+
