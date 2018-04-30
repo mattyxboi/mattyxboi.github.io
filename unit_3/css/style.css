@@ -2,10 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
 
- header, body{
- 	background: black;
- 	color: white;
+ header, body, h1, h2, h3 {
+ 	background: blue;
+ 	color: purple;
  	font-family: sans-serif;
+ 	margin-left:200px;
+ 	margin-right:200px;
 
  }
 h2{
@@ -15,16 +17,16 @@ h2{
 }
 
  h3 {
- 	background: black;
+ 	background: blue;
 	color: white;
 	font-family: Arial, sans-serif;
 	font-weight: 300
 	font-size: 40px;
 	line-height: 2em;
-	max-width: 6em;
+	
 }
 h1{
-	color:purple;
+	color: purple;
 	font-family: sans-serif;
 	font-size:50;
 	font-family: Bungee Shade, cursive;
