@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
 
-header{
-background: blue;
+header, body, p {
+background-color: blue;
 
 }
 
  p {
- 	background: blue;
+ 	background-color: blue;
 	color: white;
 	font-family: sans-serif;
 	font-weight: 300
@@ -19,7 +19,7 @@ background: blue;
 	
 }
 #title{
-	background:blue;
+	background-color:blue;
 	color:purple;
 	font-family: Bungee Shade, cursive;
 	font-size:100px;
@@ -29,7 +29,7 @@ background: blue;
 }
 
 #subtitle{
-	background:blue;
+	background-color:blue;
 	font-family: Quicksand, sans-serif;
 	font-size:75px;
 	line-height: 1em;
