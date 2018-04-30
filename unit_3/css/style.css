@@ -47,6 +47,16 @@ background-color: #3448aa;
  	margin-right:30px;
 }
 
+#line2{
+	color:yellow;
+}
+
+#line3{
+	color:white;
+	font-style: italic;
+
+}
+
 strong{
 	text-decoration: underline;
 	font-weight: 700;
