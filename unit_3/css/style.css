@@ -6,8 +6,8 @@
  	background: blue;
  	color: purple;
  	font-family: sans-serif;
- 	margin-left:200px;
- 	margin-right:200px;
+ 	margin-left:30px;
+ 	margin-right:30px;
 
  }
 h2{
@@ -27,6 +27,7 @@ h2{
 }
 h1{
 	color: purple;
+	background:blue;
 	font-family: sans-serif;
 	font-size:50;
 	font-family: Bungee Shade, cursive;
@@ -35,12 +36,14 @@ h1{
 
 }
 #title{
+	background:blue;
 	color:purple;
 	font-size:100px;
 	line-height: 1em;
 }
 
 #subtitle{
+	background:blue;
 	font-family: Quicksand, sans-serif;
 	line-height: 1em;
 
