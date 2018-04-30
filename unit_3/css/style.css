@@ -6,6 +6,7 @@
  	background: black;
  	color: white;
  	font-family: sans-serif;
+ 	max-width: 80em
  }
 h2{
 	font-color:white;
@@ -16,24 +17,28 @@ h2{
  h3 {
  	background: black;
 	color: white;
-	font-family: sans-serif;
+	font-family: Arial, sans-serif;
 	font-weight: 300
 	font-size: 40px;
+	line-height: 1.5em;
 }
 h1{
 	color:purple;
 	font-family: sans-serif;
 	font-size:50;
 	font-family: Bungee Shade, cursive;
+	line-height: 1.5em;
 
 }
 #title{
 	color:purple;
 	font-size:100px;
+	line-height: 1em;
 }
 
 #subtitle{
-	font-family:Quicksand, sans-serif;
+	font-family: Quicksand, sans-serif;
+	line-height: 1em;
 
 }
 
