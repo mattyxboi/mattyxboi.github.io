@@ -1,3 +1,5 @@
+ @import url('https://fonts.googleapis.com/css?family=Cabin+Sketch:700');
+
  body{
  	background: black;
  	color: white;
@@ -23,7 +25,7 @@ h1{
 }
 #title{
 	color:purple;
-	font-family: sans-serif;
+	font-family: Cabin-Sketch, cursive;
 	font-size:100px;
 	
 
