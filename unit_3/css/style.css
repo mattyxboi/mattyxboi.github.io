@@ -3,14 +3,13 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
 @import url('https://fonts.googleapis.com/css?family=Questrial:500');
 
-header, body, p {
+header, body {
 background-color: #3448aa;
 
 }
 
  body {
  	background-color: #3448aa;
-	color:#bae817;
 	font-family: Questrial, sans-serif;
 	font-weight: 500;
 	font-size: 40px;
@@ -52,8 +51,7 @@ background-color: #3448aa;
 }
 
 #line3{
-	color:white;
-	font-style: italic;
+color:white;
 
 }
 
